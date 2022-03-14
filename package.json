@@ -1,0 +1,16 @@
+{
+  "name": "is-mocha-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "types/index.d.ts",
+  "keywords": ["mocha", "test", "detect"],
+  "author": "@mukeshgurpude",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
