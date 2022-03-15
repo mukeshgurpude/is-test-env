@@ -1,5 +1,5 @@
 {
-  "name": "is-mocha-env",
+  "name": "is-test-env",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
